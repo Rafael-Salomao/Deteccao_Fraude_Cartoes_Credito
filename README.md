@@ -1,6 +1,8 @@
 # Deteccao_de_Fraude_em_Cartoes_de_Credito
 
-<img src=\"https://static.globalnoticias.pt/dv/image.jpg?brand=DV&type=generate&guid=25a45b57-91b1-4d86-8ef4-dafb534032ce&w=800&h=450&t=20210701112537\" width=\"50%\">
+<p align="center">
+  <img src="imagem1.png" >
+</p>
 
 ## 1.0 Introdução
 
