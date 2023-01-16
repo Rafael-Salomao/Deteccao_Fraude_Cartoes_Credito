@@ -20,13 +20,15 @@ Foram obtidos informações de uma base de dados de clientes de uma instituiçã
 
 ## 4.0 Tecnologias utilizadas
 
-- Pandas
-- Numpy 
-- Matplotlib & Pyplot
-- Seaborn 
 - Imblearn & Under_sampling
 - Scikitplot 
 - Sklearn
+- Pandas
+- Numpy 
+- Seaborn
+- Matplotlib
+- Pyplot 
+
 
 ## 5.0 Resultados obtidos
 
