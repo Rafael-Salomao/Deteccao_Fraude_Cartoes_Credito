@@ -30,6 +30,10 @@ Foram obtidos informações de uma base de dados de clientes de uma instituiçã
 
 ## 5.0 Resultados obtidos
 
+Foi utilizada a métrica AUC ROC, que mostra a relação entre a taxa de verdadeiros positivos e a taxa de falsos positivos. Para o modelo de Regressão Logística desenvolvido, a AUC ROC teve uma eficácia de 94%.
+
+Junto a isso, também foi feito o plot da matriz de confusão, onde pode-se aferir que a quantidade de entradas, classificadas fraudulentes e que o modelo identificou como transação normal - ou seja, valores falso positivos -, foi de 4%. Além disso, 9% das previsões são falso negativos, que correspondem a quantidade de transações "duvidosas" em que o modelo classifica como fraudulenta por engano.
+
 ## 6.0 Implementações futuras/ evoluções
 
-## 7.0 Agradecimentos e referências
+O resultado encontrado foi satisfatório com o esperado para a apresentação do modelo de Regressão Logística utilizado. Contudo, é fáctivel a manipulação de diferentes parâmetros no modelo constatado, como também, pode-se implementar outros modelos de classificação a fim de comparar e encontrar uma melhor eficácia nos valores finais.
