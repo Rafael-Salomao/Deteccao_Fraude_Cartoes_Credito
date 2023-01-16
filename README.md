@@ -1,6 +1,8 @@
 # Deteccao_de_Fraude_em_Cartoes_de_Credito
 
+<p align="center">
  ![alt text](https://github.com/Rafael-Salomao/Deteccao_de_Fraude_em_Cartoes_de_Credito/blob/7d9480d80bf59d42c1ff0578c4cd4f8695cd1f72/imagem1.jpg)
+</p>
 
 ## 1.0 Introdução
 
