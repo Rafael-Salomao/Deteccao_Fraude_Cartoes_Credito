@@ -1,6 +1,6 @@
 # Deteccao_de_Fraude_em_Cartoes_de_Credito
 
-1.0 Introdução
+## 1.0 Introdução
 
 Neste projeto, iremos abordar o problema das fraudes em cartões de crédito.
 
