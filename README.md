@@ -1,5 +1,7 @@
 # Deteccao_de_Fraude_em_Cartoes_de_Credito
 
+<img src=\"https://static.globalnoticias.pt/dv/image.jpg?brand=DV&type=generate&guid=25a45b57-91b1-4d86-8ef4-dafb534032ce&w=800&h=450&t=20210701112537\" width=\"50%\">
+
 ## 1.0 Introdução
 
 Neste projeto, iremos abordar o problema das fraudes em cartões de crédito, uma das principais preocupações das instituições financeiras como bancos e fintechs. Apenas no Brasil, cerca de 12,1 milhões de pessoas já foram vítimas de algum tipo de fraude financeira no último ano. Traduzindo em valores, de acordo com o Serasa Experian, no ano de 2021 foram registradas 4,1 milhões de movimentações suspeitas de fraudes, no Braisil. Sendo que, esse número mostra um aumento de 16,8% em relação ao acumulado de 2020. 
