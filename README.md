@@ -1,7 +1,7 @@
 # Deteccao_de_Fraude_em_Cartoes_de_Credito
 
 <p align="center">
-  <img src="imagem1.png" >
+  <img src="repository-open-graph-template.png" >
 </p>
 
 ## 1.0 Introdução
