@@ -1,4 +1,4 @@
-# Deteccao_de_Fraude_em_Cartoes_de_Credito
+# Detecção de Fraude em Cartões de Crédito
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/Rafael-Salomao/Deteccao_de_Fraude_em_Cartoes_de_Credito/blob/7d9480d80bf59d42c1ff0578c4cd4f8695cd1f72/imagem1.jpg">
